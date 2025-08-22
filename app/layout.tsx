@@ -72,7 +72,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Jonas Garcia - Senior Frontend Engineer",
     description:
-      "Senior Frontend Professional with 7+ years of experience in both enterprise and startup environments. Primary language: JavaScript & TypeScript. Mostly worked in industries like Streaming, LMS, AI, Rental. Possesses a keen eye for detail and a design-oriented mindset, which has led to the successful delivery of successful products like FishAngler, IBM, and Zillow. Passionate about challenging the status quo and writing a unique story in my developer diary",
+      "Innovative Frontend engineer with expertise in React, Next.js, TypeScript, Tailwind CSS, and design systems, building scalable web and mobile applications across e-commerce, blockchain, telehealth, and community platforms. Passionate about accessible, intuitive user experiences and integrating generative AI/ML features. Proudly led Taostats (blockchain analytics), YoloHealth (telehealth), and Amazon Business UI, driving measurable improvements in performance, usability, and user engagement. Strong advocate for testing, CI/CD, and team mentorship.Senior Frontend Professional with 7+ years of experience in both enterprise and startup environments. Primary language: JavaScript & TypeScript. Mostly worked in industries like Streaming, LMS, AI, Rental. Possesses a keen eye for detail and a design-oriented mindset, which has led to the successful delivery of successful products like FishAngler, IBM, and Zillow. Passionate about challenging the status quo and writing a unique story in my developer diary",
     // url: "https://jonas-garcia.vercel.app/",
     siteName: "Jonas Garcia",
     images: [
